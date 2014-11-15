@@ -1,5 +1,7 @@
 =run
-LAST_LAUNCH_TIMESTAMP=1416066920611
+DallasCowboysApp\:launchMode=run
+DallasCowboysApp\:launchShortcut=com.appcelerator.titanium.mobile.ui.ios.simulator.ipad.launchShortcut.A0370B07-5990-4EA3-85BB-B48347BD4A64
+LAST_LAUNCH_TIMESTAMP=1416067554396
 eclipse.preferences.version=1
 preference.show.console.onError=true
 preference.studio.perspective.version=103
